@@ -48,7 +48,7 @@ body {
     justify-content: center;
     align-items: center;
     background: pink;
-     background: url("love.gif") no-repeat center center;
+     background: url("../love.gif") no-repeat center center;
     background-size: cover;
 }
 
@@ -98,3 +98,4 @@ button {
     width: 250px;
     margin-bottom: 20px;
 }
+
